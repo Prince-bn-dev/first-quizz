@@ -1,8 +1,8 @@
 const tableau = [
   {
-    question: "selon Einstein",
-    propositions: ["E = mc", "E = d/v", "E = mc*c"],
-    reponse: "E = mc*c",
+    question: "Crepin est il §",
+    propositions: ["Louche", "Tres louche", "La reponse 1"],
+    reponse: "Louche",
   },
   {
     question: "la quantite de mouvement est",
